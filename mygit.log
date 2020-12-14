@@ -1,0 +1,61 @@
+Author: sivanimodali <sivanimodali@gmail.com>
+Date:   Mon Dec 14 21:58:55 2020 +0100
+
+    added php file to search a device
+
+commit b06c41c0109cb274e4738f5c568bf31c6f8f0fd6
+Author: sivanimodali <sivanimodali@gmail.com>
+Date:   Mon Dec 14 21:58:12 2020 +0100
+
+    added php file to remove device
+
+commit 6a544dc3c67a698bcb4c8bf1e598fed6a623a4a2
+Author: sivanimodali <sivanimodali@gmail.com>
+Date:   Mon Dec 14 21:57:20 2020 +0100
+
+    added all packages
+
+commit 281644a433d9f6736fb3681569f0d9130fcbac7d
+Author: sivanimodali <sivanimodali@gmail.com>
+Date:   Mon Dec 14 21:56:50 2020 +0100
+
+    added python packages
+
+commit 236959eefded8f99d5d5d0e2a2e8128de3f7bdb9
+Author: sivanimodali <sivanimodali@gmail.com>
+Date:   Mon Dec 14 21:56:04 2020 +0100
+
+    added list php file
+
+commit 08146043eaf38133f5ad1ba3965a91b77df87265
+Author: sivanimodali <sivanimodali@gmail.com>
+Date:   Mon Dec 14 21:55:30 2020 +0100
+
+    added device list php file
+
+commit aaf98f193ab9c6fe5eee2a06c470ab55a97e856e
+Author: sivanimodali <sivanimodali@gmail.com>
+Date:   Mon Dec 14 21:54:58 2020 +0100
+
+    added database conf file
+
+commit 316f4530221d3a9cabfdb823cdfb2519fe0ba480
+Author: sivanimodali <sivanimodali@gmail.com>
+Date:   Mon Dec 14 21:54:15 2020 +0100
+
+    added python file
+
+commit 9fc3c03f9658463f61af17b740546ff396d73ccc
+Author: sivanimodali <sivanimodali@gmail.com>
+Date:   Mon Dec 14 21:53:19 2020 +0100
+
+    added add device php file
+
+commit 4870124de3f359fe19d605e447f12a5a72a88e00
+Author: sivanimodali <44290026+sivanimodali@users.noreply.github.com>
+Date:   Mon Dec 14 21:47:49 2020 +0100
+
+    Initial commit
+(END)
+
+
